@@ -28,8 +28,9 @@ The workflow deliberately avoids:
 
 The **AI PR Audit Kit** adds release and bug-triage prompts plus repository-health tooling.
 
-- Expanded kit: https://incomelab-six.vercel.app/#start
-- Fixed-scope PR / repository audits: https://incomelab-six.vercel.app/
+- AI PR Audit Kit ($19): https://buy.stripe.com/00w3cw3KW90y1fib26aVa00?client_reference_id=github_free_repo_kit&utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_kit
+- Fixed-scope audits and workflow setup: https://incomelab-six.vercel.app/?utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_services
+- Evidence-first review guide: https://incomelab-six.vercel.app/ai-code-review-prompt.html?utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_guide
 
 ## License
 
