@@ -2,10 +2,12 @@
 
 A practical, low-noise pull request review starter pack for engineers who want **evidence-backed findings instead of style-review churn**.
 
+Works with Claude Code, Codex, GitHub Copilot, Cursor, and other assistants that can inspect a pull request or repository context.
+
 ## What's included
 
-- `PR_REVIEW_PROMPT.md` — a reusable AI-assisted review prompt.
-- `SHIP_CHECKLIST.md` — a compact pre-merge / pre-release checklist.
+- `PR_REVIEW_PROMPT.md` - a reusable AI-assisted review prompt.
+- `SHIP_CHECKLIST.md` - a compact pre-merge / pre-release checklist.
 
 ## Review principles
 
@@ -23,6 +25,21 @@ The workflow deliberately avoids:
 2. Give the reviewer the PR intent, diff/repository context, and relevant test commands.
 3. Run the review.
 4. Use `SHIP_CHECKLIST.md` before merge/deploy.
+
+## What a useful finding looks like
+
+Instead of:
+
+> Retry handling looks risky.
+
+Prefer:
+
+> **High - retry/idempotency.** The first attempt and retry create separate provider requests without reusing a stable idempotency key. A client-side timeout does not prove the first request failed, so the retry can duplicate the side effect. Smallest safe fix: create one operation key before the first attempt, reuse it for every retry, and add a test for "provider accepts, client times out, retry occurs."
+
+A good blocker states **severity, evidence, impact, and the smallest safe fix**.
+
+See a full fictional report:
+https://incomelab-six.vercel.app/sample-pr-audit.html?utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_sample
 
 ## Want the expanded pack?
 
