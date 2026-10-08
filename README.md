@@ -17,6 +17,7 @@ Works with Claude Code, Codex, GitHub Copilot, Cursor, and other assistants that
 - `PR_REVIEW_PROMPT.md` - a reusable AI-assisted review prompt.
 - `SHIP_CHECKLIST.md` - a compact pre-merge / pre-release checklist.
 - `EXAMPLE_REVIEW.md` - a fictional worked review showing evidence, impact, minimal fix, test assessment, and confidence.
+- `SKILL.md` - an Agent Skill version for compatible coding-agent skill systems.
 
 ## Review principles
 
@@ -27,6 +28,12 @@ The workflow deliberately avoids:
 - stylistic churn when conventions are already consistent;
 - blocking on speculative maintainability concerns;
 - approving solely because CI is green.
+
+## Agent Skill
+
+The repository also includes a root `SKILL.md` so compatible agent-skill systems can use the same evidence-first workflow directly.
+
+The skill is vendor-neutral: it does not require a specific model provider and does not call external services by itself.
 
 ## Quick start
 
