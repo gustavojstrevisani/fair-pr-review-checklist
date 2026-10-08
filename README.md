@@ -16,6 +16,7 @@ Works with Claude Code, Codex, GitHub Copilot, Cursor, and other assistants that
 
 - `PR_REVIEW_PROMPT.md` - a reusable AI-assisted review prompt.
 - `SHIP_CHECKLIST.md` - a compact pre-merge / pre-release checklist.
+- `EXAMPLE_REVIEW.md` - a fictional worked review showing evidence, impact, minimal fix, test assessment, and confidence.
 
 ## Review principles
 
