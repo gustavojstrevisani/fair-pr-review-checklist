@@ -1,8 +1,16 @@
 # Fair PR Review Checklist
 
-A practical, low-noise pull request review starter pack for engineers who want **evidence-backed findings instead of style-review churn**.
+A free, vendor-neutral **AI code review prompt and pull request review checklist** for engineers who want evidence-backed findings instead of style-review churn.
 
 Works with Claude Code, Codex, GitHub Copilot, Cursor, and other assistants that can inspect a pull request or repository context.
+
+## Good fit for
+
+- AI-assisted pull request review before merge;
+- reviewing code written by Claude Code, Codex, Copilot, Cursor, or another coding agent;
+- test-gap and regression review;
+- ship/readiness checks for small teams;
+- teams that want fewer low-value review comments and clearer blocking evidence.
 
 ## What's included
 
