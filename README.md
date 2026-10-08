@@ -18,6 +18,7 @@ Works with Claude Code, Codex, GitHub Copilot, Cursor, and other assistants that
 - `SHIP_CHECKLIST.md` - a compact pre-merge / pre-release checklist.
 - `EXAMPLE_REVIEW.md` - a fictional worked review showing evidence, impact, minimal fix, test assessment, and confidence.
 - `SKILL.md` - an Agent Skill version for compatible coding-agent skill systems.
+- `agent-workflows/` - free CLAUDE.md / AGENTS.md, task-brief, and done-criteria checklists.
 
 ## Review principles
 
@@ -56,6 +57,17 @@ A good blocker states **severity, evidence, impact, and the smallest safe fix**.
 
 See a full fictional report:
 https://incomelab-six.vercel.app/sample-pr-audit.html?utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_sample
+
+## Free AI agent workflow checklists
+
+The repo now also includes three free workflow resources for coding-agent users:
+
+- [CLAUDE.md / AGENTS.md Quality Checklist](agent-workflows/CLAUDE_AGENTS_QUALITY_CHECKLIST.md)
+- [AI Coding Agent Task Brief Template](agent-workflows/TASK_BRIEF_TEMPLATE.md)
+- [AI Coding Agent Done Criteria Checklist](agent-workflows/DONE_CRITERIA_CHECKLIST.md)
+
+For the complete guardrails + handoff + review-gate bundle:
+https://incomelab-six.vercel.app/products/ai-agent-operating-pack.html?utm_source=github&utm_medium=organic&utm_campaign=agent_workflows&utm_content=root_readme
 
 ## Want the expanded pack?
 
