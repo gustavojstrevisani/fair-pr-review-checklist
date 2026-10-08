@@ -1,4 +1,4 @@
-# Fair PR Review Checklist
+﻿# Fair PR Review Checklist
 
 A free, vendor-neutral **AI code review prompt and pull request review checklist** for engineers who want evidence-backed findings instead of style-review churn.
 
@@ -56,7 +56,7 @@ Prefer:
 A good blocker states **severity, evidence, impact, and the smallest safe fix**.
 
 See a full fictional report:
-https://incomelab-six.vercel.app/sample-pr-audit.html?utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_sample
+https://incomelab-tools.pages.dev/sample-pr-audit?utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_sample
 
 ## Free AI agent workflow checklists
 
@@ -67,15 +67,15 @@ The repo now also includes three free workflow resources for coding-agent users:
 - [AI Coding Agent Done Criteria Checklist](agent-workflows/DONE_CRITERIA_CHECKLIST.md)
 
 For the complete guardrails + handoff + review-gate bundle:
-https://incomelab-six.vercel.app/products/ai-agent-operating-pack.html?utm_source=github&utm_medium=organic&utm_campaign=agent_workflows&utm_content=root_readme
+https://incomelab-tools.pages.dev/products/ai-agent-operating-pack?utm_source=github&utm_medium=organic&utm_campaign=agent_workflows&utm_content=root_readme
 
 ## Want the expanded pack?
 
 The **AI PR Audit Kit** adds release and bug-triage prompts plus repository-health tooling.
 
 - AI PR Audit Kit ($19): https://buy.stripe.com/00w3cw3KW90y1fib26aVa00?client_reference_id=github_free_repo_kit&utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_kit
-- Fixed-scope audits and workflow setup: https://incomelab-six.vercel.app/?utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_services
-- Evidence-first review guide: https://incomelab-six.vercel.app/ai-code-review-prompt.html?utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_guide
+- Fixed-scope audits and workflow setup: https://incomelab-tools.pages.dev/?utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_services
+- Evidence-first review guide: https://incomelab-tools.pages.dev/ai-code-review-prompt?utm_source=github&utm_medium=organic&utm_campaign=fair_pr_review_checklist&utm_content=readme_guide
 
 ## License
 

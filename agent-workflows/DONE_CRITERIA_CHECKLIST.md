@@ -1,4 +1,4 @@
-# AI Coding Agent Done Criteria Checklist
+﻿# AI Coding Agent Done Criteria Checklist
 
 A compact done-definition for AI coding tasks so agents stop with evidence instead of confidence theater.
 
@@ -46,4 +46,5 @@ Before changing code, restate the task, list in-scope files/areas, name required
 
 The paid agent-workflow packs add production-ready guardrails, task/handoff templates, and review gates:
 
-https://incomelab-six.vercel.app/products.html?utm_source=free_download&utm_medium=organic&utm_campaign=agent_workflows&utm_content=ai-agent-done-criteria-checklist
+https://incomelab-tools.pages.dev/products?utm_source=free_download&utm_medium=organic&utm_campaign=agent_workflows&utm_content=ai-agent-done-criteria-checklist
+

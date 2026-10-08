@@ -1,4 +1,4 @@
-# Free AI Agent Workflow Checklists
+﻿# Free AI Agent Workflow Checklists
 
 Three free, vendor-neutral resources for developers using Claude Code, Codex, Cursor, Copilot, or another coding agent.
 
@@ -12,14 +12,15 @@ The theme is simple: **scope before action, evidence before confidence**.
 
 ## Free web library
 
-https://incomelab-six.vercel.app/free.html?utm_source=github&utm_medium=organic&utm_campaign=agent_workflows&utm_content=repo_folder
+https://incomelab-tools.pages.dev/free?utm_source=github&utm_medium=organic&utm_campaign=agent_workflows&utm_content=repo_folder
 
 ## Complete operating pack
 
 The paid **AI Agent Operating Pack** adds repository guardrails, task/handoff templates, interruption recovery, and evidence-first review gates:
 
-https://incomelab-six.vercel.app/products/ai-agent-operating-pack.html?utm_source=github&utm_medium=organic&utm_campaign=agent_workflows&utm_content=repo_folder
+https://incomelab-tools.pages.dev/products/ai-agent-operating-pack?utm_source=github&utm_medium=organic&utm_campaign=agent_workflows&utm_content=repo_folder
 
 ## License
 
 MIT for these free files. Use and adapt them freely.
+

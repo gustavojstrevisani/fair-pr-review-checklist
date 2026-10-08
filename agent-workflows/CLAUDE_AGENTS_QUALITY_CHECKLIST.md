@@ -1,4 +1,4 @@
-# CLAUDE.md / AGENTS.md Quality Checklist
+﻿# CLAUDE.md / AGENTS.md Quality Checklist
 
 A free checklist for instruction files that keep coding agents on-scope, testable, and predictable.
 
@@ -46,4 +46,5 @@ Before changing code, restate the task, list in-scope files/areas, name required
 
 The paid agent-workflow packs add production-ready guardrails, task/handoff templates, and review gates:
 
-https://incomelab-six.vercel.app/products.html?utm_source=free_download&utm_medium=organic&utm_campaign=agent_workflows&utm_content=claude-agents-instruction-file-checklist
+https://incomelab-tools.pages.dev/products?utm_source=free_download&utm_medium=organic&utm_campaign=agent_workflows&utm_content=claude-agents-instruction-file-checklist
+

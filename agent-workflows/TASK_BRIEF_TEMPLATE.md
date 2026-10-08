@@ -1,4 +1,4 @@
-# AI Coding Agent Task Brief Template
+﻿# AI Coding Agent Task Brief Template
 
 A fill-in task brief for delegating one coding task with scope, evidence, checks, and stop conditions.
 
@@ -46,4 +46,5 @@ Before changing code, restate the task, list in-scope files/areas, name required
 
 The paid agent-workflow packs add production-ready guardrails, task/handoff templates, and review gates:
 
-https://incomelab-six.vercel.app/products.html?utm_source=free_download&utm_medium=organic&utm_campaign=agent_workflows&utm_content=ai-agent-task-brief-template
+https://incomelab-tools.pages.dev/products?utm_source=free_download&utm_medium=organic&utm_campaign=agent_workflows&utm_content=ai-agent-task-brief-template
+
